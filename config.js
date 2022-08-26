@@ -1,8 +1,8 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281515860089', '6281334177340', '6283128734012'] // Put your number here
-global.mods = [] // Want some help?
+global . pemilik  = [ '6285716583868' , '6281585328096' , '6283128734012' ] // Masukkan nomor Anda di si
+global . mods  = [] // Ingin bantuan?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
